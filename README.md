@@ -11,6 +11,7 @@ Task
 * % of Total Drivers by City Type
 
 Output
+
 ![logo](/images/BubblePlot.png)
 ![logo](/images/TotalDrivers.png)
 ![logo](/images/TotalFares.png)
