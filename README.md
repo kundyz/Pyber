@@ -1,5 +1,5 @@
 # Pyber
-![logo](/pyber/images/logo.PNG)
+![logo](/images/logo.png)
 
 Task
 * Average Fare ($) Per City
