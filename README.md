@@ -18,7 +18,7 @@ Output
 ![logo](/images/TotalRides.png)
 
 # Pymaceuticals
-![logo](/pymaceuticals/images/logo.png)
+![logo](/pymaceuticals/images/logo.jpg)
 
 Task
 * Creating a scatter plot that shows how the tumor volume changes over time for each treatment.
